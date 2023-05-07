@@ -1,0 +1,5 @@
+- [Use case](https://www.cnblogs.com/kingwz/p/16626453.html)
+- [Activity Diagram](https://blog.csdn.net/qq_41784749/article/details/112242348?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-112242348-blog-117412480.235^v27^pc_relevant_default&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
+- [Sequence Diagram](https://blog.csdn.net/u011019141/article/details/121611486)
+- [Sequence Diagram2](https://zhuanlan.zhihu.com/p/422509874)
+- [class Diagram](https://zhuanlan.zhihu.com/p/422510589)
